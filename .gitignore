@@ -1,2 +1,4 @@
-/dbs*
 /doc
+__pycache__
+
+reqenv
