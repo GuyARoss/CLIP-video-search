@@ -1,7 +1,7 @@
 # CLIP Video Search
-[CLIP (Contrastive Language–Image Pre-training)](https://openai.com/blog/clip/) is a technique "which efficiently learns visual concepts from natural language supervision.". CLIP has found applications in [stable diffusion](https://github.com/huggingface/diffusers/tree/main/examples/community#clip-guided-stable-diffusion).
+[CLIP (Contrastive Language–Image Pre-training)](https://openai.com/blog/clip/) is a technique _which efficiently learns visual concepts from natural language supervision_. CLIP has found applications in [stable diffusion](https://github.com/huggingface/diffusers/tree/main/examples/community#clip-guided-stable-diffusion).
 
-This repository aims act as a POC in exploring the ability to use CLIP for video search using natural language.
+This repository aims act as a POC in exploring the ability to use CLIP for video search using natural language outlined in the article found [here](https://medium.com/@guyallenross/using-clip-to-build-a-natural-language-video-search-engine-6498c03c40d2).
 
 ## Usage
 ### Dependencies
