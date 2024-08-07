@@ -3,6 +3,8 @@
 
 This repository aims act as a POC in exploring the ability to use CLIP for video search using natural language outlined in the article found [here](https://medium.com/@guyallenross/using-clip-to-build-a-natural-language-video-search-engine-6498c03c40d2).
 
+Adapted for a [natual language video search engine found here](https://github.com/GuyARoss/movie-search-engine)
+
 ## Usage
 ### Dependencies
 - [libzmq](https://github.com/zeromq/libzmq)
